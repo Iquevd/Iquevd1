@@ -1,2 +1,2 @@
-# Iquevd1
-proyectofinalalgoritmosyprogramación
+# Tabla Periódica de los Elementos
+
