@@ -4,28 +4,91 @@ tabla_periodica={
         'Número Atómico':81,
         'Peso Atómico':204.3833,
         'Estado de Oxidación':1-3,
-        'Densidad':11.85
+        'Densidad(g/cm3)':11.85
     },
     'Pb':{
         'Nombre':'Plomo',
         'Número Atómico':82,
         'Peso Atómico':207.2,
         'Estado de Oxidación':2-4,
-        'Densidad':11.34
+        'Densidad(g/cm3)':11.34
     },
-       'Bi':{
+    'Bi':{
         'Nombre':'Bismuto',
         'Número Atómico':83,
         'Peso Atómico':208.9803,
         'Estado de Oxidación':3-5,
-        'Densidad':9.78
+        'Densidad(g/cm3)':9.78
     },
     'Po':{
         'Nombre':'Polonio',
         'Número Atómico':84,
         'Peso Atómico':208.9824,
         'Estado de Oxidación':2-4,
-        'Densidad':9.19
+        'Densidad(g/cm3)':9.19
+    },
+    'At':{
+        'Nombre':'Astato',
+        'Número Atómico':85,
+        'Peso Atómico':209.9871,
+        'Estado de Oxidación':1-3-5-7,
+        'Densidad(g/cm3)':'-'
+    },
+    'Rn':{
+        'Nombre':'Radón',
+        'Número Atómico':86,
+        'Peso Atómico':222.0175,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':9.73
+    },
+    'Fr':{
+        'Nombre':'Francio',
+        'Número Atómico':87,
+        'Peso Atómico':223.0197,
+        'Estado de Oxidación':1,
+        'Densidad(g/cm3)':'-'
+    },
+    'Ra':{
+        'Nombre':'Radio',
+        'Número Atómico':88,
+        'Peso Atómico':226.0254,
+        'Estado de Oxidación':2,
+        'Densidad(g/cm3)':5.8
+    },
+    'Ac':{
+        'Nombre':'Actinio',
+        'Número Atómico':89,
+        'Peso Atómico':227.0278,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':10.07
+    },
+    'Th':{
+        'Nombre':'Torio',
+        'Número Atómico':90,
+        'Peso Atómico':232.0381,
+        'Estado de Oxidación':4,
+        'Densidad(g/cm3)':11.72
+    },
+    'Pa':{
+        'Nombre':'Protactinio',
+        'Número Atómico':91,
+        'Peso Atómico':231.0358,
+        'Estado de Oxidación':4-5,
+        'Densidad(g/cm3)':15.37
+    },
+    'U':{
+        'Nombre':'Uranio',
+        'Número Atómico':92,
+        'Peso Atómico':238.0289,
+        'Estado de Oxidación':3-4-5-6,
+        'Densidad(g/cm3)':19.05
+    },
+    'Np':{
+        'Nombre':'Neptunio',
+        'Número Atómico':93,
+        'Peso Atómico':237,
+        'Estado de Oxidación':3-4-5-6,
+        'Densidad(g/cm3)':20.45
     },
 }
 print("Bienvenido a la Tabla Periódica de los Elementos!")
