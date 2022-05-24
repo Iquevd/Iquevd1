@@ -1,4 +1,32 @@
 tabla_periodica={
+    'Ir':{
+        'Nombre':'Iridio',
+        'Número Atómico':77,
+        'Peso Atómico':192.22,
+        'Estado de Oxidación':'(-3)-9',
+        'Densidad(g/cm3)':22.56
+    },
+    'Pt':{
+        'Nombre':'Platino',
+        'Número Atómico':78,
+        'Peso Atómico':195.08,
+        'Estado de Oxidación':'(-2)-6',
+        'Densidad(g/cm3)':21.45
+    },
+    'Au':{
+        'Nombre':'Oro',
+        'Numéro Atómico': 79,
+        'Peso Atómico':196.97,
+        'Estado de Oxidación':1-3,
+        'Densidad(g/cm3)':19.3
+    },
+    'Hg':{
+        'Nombre':'Mercurio',
+        'Número Atómico': 80,
+        'Peso Atómico':200.59,
+        'Estado de Oxidación':1-4,
+        'Densidad(g/cm3)':13.534
+    },
     'Tl':{
         'Nombre':'Talio',
         'Número Atómico':81,
