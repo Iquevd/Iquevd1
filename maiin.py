@@ -90,6 +90,202 @@ tabla_periodica={
         'Estado de Oxidación':3-4-5-6,
         'Densidad(g/cm3)':20.45
     },
+    'Pu':{
+        'Nombre':'Plutonio',
+        'Número Atómico':94,
+        'Peso Atómico':244,
+        'Estado de Oxidación':3-4-5-6,
+        'Densidad(g/cm3)':19.81
+    },
+    'Am':{
+        'Nombre':'Americio',
+        'Número Atómico':95,
+        'Peso Atómico':243,
+        'Estado de Oxidación':3-4-5-6,
+        'Densidad(g/cm3)':13.67
+    },
+    'Cm':{
+        'Nombre':'Curio',
+        'Número Atómico':96,
+        'Peso Atómico':247,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':13.51
+    },
+    'Bk':{
+        'Nombre':'Berkelio',
+        'Número Atómico':97,
+        'Peso Atómico':247,
+        'Estado de Oxidación':3-4,
+        'Densidad(g/cm3)':14.78
+    },
+    'Cf':{
+        'Nombre':'Californio',
+        'Número Atómico':98,
+        'Peso Atómico':251,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':'-'
+    },
+    'Es':{
+        'Nombre':'Eistenio',
+        'Número Atómico':99,
+        'Peso Atómico':252,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':'-'
+    },
+    'Fm':{
+        'Nombre':'Fermio',
+        'Número Atómico':100,
+        'Peso Atómico':257,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':'-'
+    },
+    'Md':{
+        'Nombre':'Mendelevio',
+        'Número Atómico':101,
+        'Peso Atómico':258,
+        'Estado de Oxidación':2-3,
+        'Densidad(g/cm3)':'-'
+    },
+    'No':{
+        'Nombre':'Nodelio',
+        'Número Atómico':102,
+        'Peso Atómico':259,
+        'Estado de Oxidación':2-3,
+        'Densidad(g/cm3)':'-'
+    },
+    'Lr':{
+        'Nombre':'Laurencio',
+        'Número Atómico':103,
+        'Peso Atómico':262,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':'-'
+    },
+    'Rf':{
+        'Nombre':'Rutherfodio',
+        'Número Atómico':104,
+        'Peso Atómico':261.11,
+        'Estado de Oxidación':4,
+        'Densidad(g/cm3)':'-'
+    },
+    'Db':{
+        'Nombre':'Dubnio',
+        'Número Atómico':105,
+        'Peso Atómico':262.114,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Sg':{
+        'Nombre':'Seaborgio',
+        'Número Atómico':106,
+        'Peso Atómico':263.12,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Bh':{
+        'Nombre':'Bohrio',
+        'Número Atómico':107,
+        'Peso Atómico':262.12,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Hs':{
+        'Nombre':'Hassio',
+        'Número Atómico':108,
+        'Peso Atómico':264,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Mt':{
+        'Nombre':'Meitnerio',
+        'Número Atómico':109,
+        'Peso Atómico':266.1378,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Ds':{
+        'Nombre':'Darmstadtio',
+        'Número Atómico':110,
+        'Peso Atómico':269,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Rg':{
+        'Nombre':'Roentgenio',
+        'Número Atómico':111,
+        'Peso Atómico':272,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Cn':{
+        'Nombre':'Copernicio',
+        'Número Atómico':112,
+        'Peso Atómico':277,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Uut':{
+        'Nombre':'Ununtrio',
+        'Número Atómico':113,
+        'Peso Atómico':284,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Uuq':{
+        'Nombre':'Ununcuadio',
+        'Número Atómico':114,
+        'Peso Atómico':289,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Uup':{
+        'Nombre':'Ununpentio',
+        'Número Atómico':115,
+        'Peso Atómico':288,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Uuh':{
+        'Nombre':'Ununhexio',
+        'Número Atómico':116,
+        'Peso Atómico':289,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Uus':{
+        'Nombre':'Ununseptio',
+        'Número Atómico':117,
+        'Peso Atómico':'-',
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Uuo':{
+        'Nombre':'Ununoctio',
+        'Número Atómico':118,
+        'Peso Atómico':284,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Uuu':{
+        'Nombre':'Ununenio',
+        'Número Atómico':119,
+        'Peso Atómico':'-',
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Ubn':{
+        'Nombre':'Unbinilio',
+        'Número Atómico':120,
+        'Peso Atómico':'-',
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
+    'Ubu':{
+        'Nombre':'Unbiunio',
+        'Número Atómico':121,
+        'Peso Atómico':'-',
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':'-'
+    },
 }
 print("Bienvenido a la Tabla Periódica de los Elementos!")
 print("Ingrese por favor la opcion que desee buscar el elemento: 1(Símbolo)")
