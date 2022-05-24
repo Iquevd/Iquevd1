@@ -1,16 +1,37 @@
 tabla_periodica={
+    'Zr':{
+        'Nombre':'Circonio',
+        'Número Atómico':40,
+        'Peso Atómico':91.224,
+        'Estado de Oxidación':4,
+        'Densidad(g/cm3)':6.501
+    },
+    'Nb':{
+        'Nombre':'Niobio',
+        'Número Atómico':41,
+        'Peso Atómico':92.906,
+        'Estado de Oxidación':2-5,
+        'Densidad(g/cm3)':8.57
+    },
+    'Mo':{
+        'Nombre':'Molibdeno',
+        'Número Atómico':'42',
+        'Peso Atómico':95.95,
+        'Estado de Oxidación':2-6,
+        'Densidad(g/cm3)':10.28
+    },
     'Ir':{
         'Nombre':'Iridio',
         'Número Atómico':77,
         'Peso Atómico':192.22,
-        'Estado de Oxidación':'(-3)-9',
+        'Estado de Oxidación':(-3)-9,
         'Densidad(g/cm3)':22.56
     },
     'Pt':{
         'Nombre':'Platino',
         'Número Atómico':78,
         'Peso Atómico':195.08,
-        'Estado de Oxidación':'(-2)-6',
+        'Estado de Oxidación':(-2)-6,
         'Densidad(g/cm3)':21.45
     },
     'Au':{
