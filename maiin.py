@@ -20,6 +20,48 @@ tabla_periodica={
         'Estado de Oxidación':2-6,
         'Densidad(g/cm3)':10.28
     },
+    'Tc':{
+        'Nombre':'Tecnecio',
+        'Número Atómico':'43',
+        'Peso Atómico':98,
+        'Estado de Oxidación':1-7,
+        'Densidad(g/cm3)':11.5
+    },
+    'Ru':{
+        'Nombre':'Rutenio',
+        'Número Atómico':44,
+        'Peso Atómico':101.07,
+        'Estados de Oxidación':2-8,
+        'Densidad(g/cm3)':12.37
+    },
+    'Rh':{
+        'Nombre':'Rodio',
+        'Número Atómico':45,
+        'Peso Atómico':102.91,
+        'Estados de Oxidación':(-1)-6,
+        'Densidad(g/cm3)':12.45
+    },
+    'Pd':{
+        'Nombre':'Paladio',
+        'Número Atómico':46,
+        'Peso Atómico':106.42,
+        'Estados de Oxidación':0-6,
+        'Densidad(g/cm3)':12.023
+    },
+    'Ag':{
+        'Nombre':'Plata',
+        'Número Atómico':47,
+        'Peso Atómico':107.87,
+        'Estados de Oxidación':1-4,
+        'Densidad(g/cm3)':10.49
+    },
+    'Cd':{
+        'Nombre':'Cadmio',
+        'Número Atómico':48,
+        'Peso Atómico':112.41,
+        'Estados de Oxidación':1-2,
+        'Densidad(g/cm3)':8.65
+    },
     'Ir':{
         'Nombre':'Iridio',
         'Número Atómico':77,
