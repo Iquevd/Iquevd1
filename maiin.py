@@ -118,7 +118,146 @@ tabla_periodica={
         'Estado de Oxidación':2,
         'Densidad(g/cm3)':3.510
     },
-    
+    'La':{
+        'Nombre':'Lantano',
+        'Número Atómico':57,
+        'Peso Atómico':138.91,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':6.146
+    },
+    'Ce':{
+        'Nombre':'Cerio',
+        'Número Atómico':58,
+        'Peso Atómico':140.12,
+        'Estado de Oxidación':3-4,
+        'Densidad(g/cm3)':6.689
+    },
+    'Pr':{
+        'Nombre':'Praseodimio',
+        'Número Atómico':59,
+        'Peso Atómico':140.91,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':6.640
+    },
+    'Nd':{
+        'Nombre':'Neodimio',
+        'Número Atómico':60,
+        'Peso Atómico':144.24,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':7.010
+    },
+    'Pm':{
+        'Nombre':'Prometio',
+        'Número Atómico':61,
+        'Peso Atómico':145,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':7.264
+    },
+    'Sm':{
+        'Nombre':'Samario',
+        'Número Atómico':62,
+        'Peso Atómico':150.36,
+        'Estado de Oxidación':2-3,
+        'Densidad(g/cm3)':7.353
+    },
+    'Eu':{
+        'Nombre':'Europio',
+        'Número Atómico':63,
+        'Peso Atómico':151.96,
+        'Estado de Oxidación':2-3,
+        'Densidad(g/cm3)':5.244
+    },
+    'Gd':{
+        'Nombre':'Gadolinio',
+        'Número Atómico':64,
+        'Peso Atómico':157.25,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':7.901
+    },
+    'Tb':{
+        'Nombre':'Terbio',
+        'Número Atómico':65,
+        'Peso Atómico':158.93,
+        'Estado de Oxidación':4,
+        'Densidad(g/cm3)':8.219
+    },
+    'Dy':{
+        'Nombre':'Disprosio',
+        'Número Atómico':66,
+        'Peso Atómico':162.50,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':8.551
+    },
+    'Ho':{
+        'Nombre':'Holmio',
+        'Número Atómico':67,
+        'Peso Atómico':164.93,
+        'Estado de Oxidación':1-3,
+        'Densidad(g/cm3)':9.795
+    },
+    'Er':{
+        'Nombre':'Erbio',
+        'Número Atómico':68,
+        'Peso Atómico':167.26,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':9.066
+    },
+    'Tm':{
+        'Nombre':'Tulio',
+        'Número Atómico':69,
+        'Peso Atómico':168.93,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':9.320
+    },
+    'Yb':{
+        'Nombre':'Iterbio',
+        'Número Atómico':70,
+        'Peso Atómico':173.05,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':6.570
+    },
+    'Lu':{
+        'Nombre':'Lutecio',
+        'Número Atómico':71,
+        'Peso Atómico':174.97,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':9.841
+    },
+    'Hf':{
+        'Nombre':'Hafnio',
+        'Número Atómico':72,
+        'Peso Atómico':178.49,
+        'Estado de Oxidación':2-4,
+        'Densidad(g/cm3)':13.310
+    },
+    'Ta':{
+        'Nombre':'Tántalo',
+        'Número Atómico':73,
+        'Peso Atómico':180.95,
+        'Estado de Oxidación':(-1)-5,
+        'Densidad(g/cm3)':16.650
+    },
+    'W':{
+        'Nombre':'Wolframio',
+        'Número Atómico':74,
+        'Peso Atómico':183.84,
+        'Estado de Oxidación':2-6,
+        'Densidad(g/cm3)':19.250
+    },
+    'Re':{
+        'Nombre':'Renio',
+        'Número Atómico':75,
+        'Peso Atómico':186.21,
+        'Estado de Oxidación':(-1)-7,
+        'Densidad(g/cm3)':21.020
+    },
+    'Os':{
+        'Nombre':'Osmio',
+        'Número Atómico':76,
+        'Peso Atómico':190.23,
+        'Estado de Oxidación':(-2)-8,
+        'Densidad(g/cm3)':22.59
+    },
     'Ir':{
         'Nombre':'Iridio',
         'Número Atómico':77,
