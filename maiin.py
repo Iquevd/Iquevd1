@@ -62,6 +62,63 @@ tabla_periodica={
         'Estados de Oxidación':1-2,
         'Densidad(g/cm3)':8.65
     },
+    'In':{
+        'Nombre':'Indio',
+        'Número Atómico':49,
+        'Peso Atómico':114.82,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':7.31
+    },
+    'Sn':{
+        'Nombre':'Estaño',
+        'Número Atómico':50,
+        'Peso Atómico':118.71,
+        'Estado de Oxidación':2-4,
+        'Densidad(g/cm3)':7.310
+    },
+    'Sb':{
+        'Nombre':'Antimonio',
+        'Número Atómico':51,
+        'Peso Atómico':121.76,
+        'Estado de Oxidación':3-5,
+        'Densidad(g/cm3)':6.697
+    },
+    'Te':{
+        'Nombre':'Telurio',
+        'Número Atómico':52,
+        'Peso Atómico':127.60,
+        'Estado de Oxidación':2-6,
+        'Densidad(g/cm3)':6.240
+    },
+    'I':{
+        'Nombre':'Yodo',
+        'Número Atómico':53,
+        'Peso Atómico':126.90,
+        'Estado de Oxidación':(-1)-7,
+        'Densidad(g/cm3)':4.940
+    },
+    'Xe':{
+        'Nombre':'Xenon',
+        'Número Atómico':54,
+        'Peso Atómico':'131.29',
+        'Estado de Oxidación':0,
+        'Densidad(g/cm3)':0.0059
+    },
+    'Cs':{
+        'Nombre':'Cesio',
+        'Número Atómico':55,
+        'Peso Atómico':132.91,
+        'Estado de Oxidación':1,
+        'Densidad(g/cm3)':1.879
+    },
+    'Ba':{
+        'Nombre':'Bario',
+        'Número Atómico':56,
+        'Peso Atómico':137.33,
+        'Estado de Oxidación':2,
+        'Densidad(g/cm3)':3.510
+    },
+    
     'Ir':{
         'Nombre':'Iridio',
         'Número Atómico':77,
