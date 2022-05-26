@@ -847,7 +847,37 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
 }
+nometales={'H','C','N','O','F','P','S','Cl','Se','Br','I'}
+gasesnobles={'He','Ne','Ar','kr','Xe','Rn'}
+semimetales={'B','Si','Ge','As','Sb','Te','At'}
+metales={'Al','Ga','In','Sn','Tl','Pb','Bi','Po','Sc','Ti','V','Cr','Mn','Fe','Co','Ni','Cu','Y','Zr','Nb','Mo','Tc','Ru','Rh','Pd','Ag','Zn','Cd','Hf','Ta','W','Re','Os','Ir','Pt','Au','Hg','Rf','Db','Sg','Bh','Hs'}}
+lantanidos={'La','Ce','Pr','Nd','Pm','Sm','Eu','Gd','Tb','Dy','Ho','Er','Tm','Yb','Lu'}
+actinidos={'Ac','Th','Pa','U','Np','Pu','Am','Cm','Bk','Cf','Es','Fm','Md','No','Lr'}
+alcalinoterreos={'Be','Mg','Ca','Sr','Ba','Ra'}
+alcalinos={'Li','Na','K','Rb','Cs','Fr'}
+desconocidos={'Mt','Ds','Rg','Cn','Nh','Fl','Mc','Lv','Ts','Og','Uut','Uuq','Uup','Uuh','Uus','Uuo','Uue','Ubn','Ubu'}
 print("Bienvenido a la Tabla Periódica de los Elementos!")
+print("Ingrese el grupo de la Tabla Periopdica que desea investigar: ")
+print("1.No metales\n2.Gases nobles\n3.Semimetales\n4.Metales\n5.Lantanidos\n6.Actinidos\n7.Alcalinoterreos\n8.Alcalinos\n9.Desconocidos")
+eleccion=input()
+if eleccion==1:
+        print(nometales)
+elif eleccion==2:
+        print(gasesnobles)
+elif eleccion==3:
+        print(semimetales)
+elif eleccion==4:
+        print(metales)
+elif eleccion==5:
+        print(lantanidos)
+elif eleccion==6:
+        print(actinidos)
+elif eleccion==7:
+        print(alcalinoterreos)
+elif eleccion==8:
+        print(alcalinos)
+elif eleccion==9:
+        print(desconocidos)   
 print("Ingrese por favor el símbolo del elemento químico que desee buscar: ")
 for i in tabla_periodica:
     simbolo=input()
@@ -866,20 +896,20 @@ while True:
     if eleccion==1:
         elemento=input("Ingrese el elemento químico: ")
         print("El Peso Atómico de",elemento,"es",tabla_periodicax[elemento],"\n")
-        historial.append(tabla_periodicax[elemento])
+        historial.append(tabla_periodicax[elemento])#se abre la funcion del historial, para verlo cuando se de la opcion
         print("¿Desea calcular otro elemento?\nSi/No\nVer historial")
     elif eleccion==2:
         contador=0
         sumatoria=0
         compuestos=int(input("Ingrese la cantidad de elementos que va a tener su compuesto: "))
-        while (contador<compuestos):
+        while (contador<compuestos):#no importa la cantidad de los compuestos, aunque no existe mas de 10
             print("Ingrese el",contador+1,"elemento químico: ")
             elemento=input()
             multiplicacion=float(input("Digite la cantidad por la cual lo va a multiplicar: "))
-            key=tabla_periodicax.get(elemento)
+            key=tabla_periodicax.get(elemento)#Es la llave(simbolo elemento), resultado(peso atomico de la llave)
             resultado=multiplicacion*key
             print("El resultado de la multiplicación",multiplicacion,"es",resultado)
-            sumatoria=sumatoria+resultado
+            sumatoria=sumatoria+resultado#El total de peso atomico
             contador+=1
         historial.append(sumatoria)
         print(f"El Peso Atómico del compuesto es:{sumatoria}""\n")
