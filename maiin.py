@@ -318,21 +318,21 @@ tabla_periodica={
         'Nombre':'Paladio',
         'Número Atómico':46,
         'Peso Atómico':106.42,
-        'Estados de Oxidación':0-6,
+        'Estados de Oxidación':'0-6',
         'Densidad(g/cm3)':12.023
     },
     'Ag':{
         'Nombre':'Plata',
         'Número Atómico':47,
         'Peso Atómico':107.87,
-        'Estados de Oxidación':1-4,
+        'Estados de Oxidación':'1-4',
         'Densidad(g/cm3)':10.49
     },
     'Cd':{
         'Nombre':'Cadmio',
         'Número Atómico':48,
         'Peso Atómico':112.41,
-        'Estados de Oxidación':1-2,
+        'Estados de Oxidación':'1-2',
         'Densidad(g/cm3)':8.65
     },
     'In':{
@@ -346,28 +346,28 @@ tabla_periodica={
         'Nombre':'Estaño',
         'Número Atómico':50,
         'Peso Atómico':118.71,
-        'Estado de Oxidación':2-4,
+        'Estado de Oxidación':'2-4',
         'Densidad(g/cm3)':7.310
     },
     'Sb':{
         'Nombre':'Antimonio',
         'Número Atómico':51,
         'Peso Atómico':121.76,
-        'Estado de Oxidación':3-5,
+        'Estado de Oxidación':'3-5',
         'Densidad(g/cm3)':6.697
     },
     'Te':{
         'Nombre':'Telurio',
         'Número Atómico':52,
         'Peso Atómico':127.60,
-        'Estado de Oxidación':2-6,
+        'Estado de Oxidación':'2-6',
         'Densidad(g/cm3)':6.240
     },
     'I':{
         'Nombre':'Yodo',
         'Número Atómico':53,
         'Peso Atómico':126.90,
-        'Estado de Oxidación':(-1)-7,
+        'Estado de Oxidación':'(-1)-7',
         'Densidad(g/cm3)':4.940
     },
     'Xe':{
@@ -402,7 +402,7 @@ tabla_periodica={
         'Nombre':'Cerio',
         'Número Atómico':58,
         'Peso Atómico':140.12,
-        'Estado de Oxidación':3-4,
+        'Estado de Oxidación':'3-4',
         'Densidad(g/cm3)':6.689
     },
     'Pr':{
@@ -430,14 +430,14 @@ tabla_periodica={
         'Nombre':'Samario',
         'Número Atómico':62,
         'Peso Atómico':150.36,
-        'Estado de Oxidación':2-3,
+        'Estado de Oxidación':'2-3',
         'Densidad(g/cm3)':7.353
     },
     'Eu':{
         'Nombre':'Europio',
         'Número Atómico':63,
         'Peso Atómico':151.96,
-        'Estado de Oxidación':2-3,
+        'Estado de Oxidación':'2-3',
         'Densidad(g/cm3)':5.244
     },
     'Gd':{
@@ -465,7 +465,7 @@ tabla_periodica={
         'Nombre':'Holmio',
         'Número Atómico':67,
         'Peso Atómico':164.93,
-        'Estado de Oxidación':1-3,
+        'Estado de Oxidación':'1-3',
         'Densidad(g/cm3)':9.795
     },
     'Er':{
@@ -500,98 +500,98 @@ tabla_periodica={
         'Nombre':'Hafnio',
         'Número Atómico':72,
         'Peso Atómico':178.49,
-        'Estado de Oxidación':2-4,
+        'Estado de Oxidación':'2-4',
         'Densidad(g/cm3)':13.310
     },
     'Ta':{
         'Nombre':'Tántalo',
         'Número Atómico':73,
         'Peso Atómico':180.95,
-        'Estado de Oxidación':(-1)-5,
+        'Estado de Oxidación':'(-1)-5',
         'Densidad(g/cm3)':16.650
     },
     'W':{
         'Nombre':'Wolframio',
         'Número Atómico':74,
         'Peso Atómico':183.84,
-        'Estado de Oxidación':2-6,
+        'Estado de Oxidación':'2-6',
         'Densidad(g/cm3)':19.250
     },
     'Re':{
         'Nombre':'Renio',
         'Número Atómico':75,
         'Peso Atómico':186.21,
-        'Estado de Oxidación':(-1)-7,
+        'Estado de Oxidación':'(-1)-7',
         'Densidad(g/cm3)':21.020
     },
     'Os':{
         'Nombre':'Osmio',
         'Número Atómico':76,
         'Peso Atómico':190.23,
-        'Estado de Oxidación':(-2)-8,
+        'Estado de Oxidación':'(-2)-8',
         'Densidad(g/cm3)':22.59
     },
     'Ir':{
         'Nombre':'Iridio',
         'Número Atómico':77,
         'Peso Atómico':192.22,
-        'Estado de Oxidación':(-3)-9,
+        'Estado de Oxidación':'(-3)-9',
         'Densidad(g/cm3)':22.56
     },
     'Pt':{
         'Nombre':'Platino',
         'Número Atómico':78,
         'Peso Atómico':195.08,
-        'Estado de Oxidación':(-2)-6,
+        'Estado de Oxidación':'(-2)-6',
         'Densidad(g/cm3)':21.45
     },
     'Au':{
         'Nombre':'Oro',
         'Numéro Atómico': 79,
         'Peso Atómico':196.97,
-        'Estado de Oxidación':1-3,
+        'Estado de Oxidación':'1-3',
         'Densidad(g/cm3)':19.3
     },
     'Hg':{
         'Nombre':'Mercurio',
         'Número Atómico': 80,
         'Peso Atómico':200.59,
-        'Estado de Oxidación':1-4,
+        'Estado de Oxidación':'1-4',
         'Densidad(g/cm3)':13.534
     },
     'Tl':{
         'Nombre':'Talio',
         'Número Atómico':81,
         'Peso Atómico':204.3833,
-        'Estado de Oxidación':1-3,
+        'Estado de Oxidación':'1-3',
         'Densidad(g/cm3)':11.85
     },
     'Pb':{
         'Nombre':'Plomo',
         'Número Atómico':82,
         'Peso Atómico':207.2,
-        'Estado de Oxidación':2-4,
+        'Estado de Oxidación':'2-4',
         'Densidad(g/cm3)':11.34
     },
     'Bi':{
         'Nombre':'Bismuto',
         'Número Atómico':83,
         'Peso Atómico':208.9803,
-        'Estado de Oxidación':3-5,
+        'Estado de Oxidación':'3-5',
         'Densidad(g/cm3)':9.78
     },
     'Po':{
         'Nombre':'Polonio',
         'Número Atómico':84,
         'Peso Atómico':208.9824,
-        'Estado de Oxidación':2-4,
+        'Estado de Oxidación':'2-4',
         'Densidad(g/cm3)':9.19
     },
     'At':{
         'Nombre':'Astato',
         'Número Atómico':85,
         'Peso Atómico':209.9871,
-        'Estado de Oxidación':1-3-5-7,
+        'Estado de Oxidación':'1-3-5-7',
         'Densidad(g/cm3)':'-'
     },
     'Rn':{
@@ -633,35 +633,35 @@ tabla_periodica={
         'Nombre':'Protactinio',
         'Número Atómico':91,
         'Peso Atómico':231.0358,
-        'Estado de Oxidación':4-5,
+        'Estado de Oxidación':'4-5',
         'Densidad(g/cm3)':15.37
     },
     'U':{
         'Nombre':'Uranio',
         'Número Atómico':92,
         'Peso Atómico':238.0289,
-        'Estado de Oxidación':3-4-5-6,
+        'Estado de Oxidación':'3-4-5-6',
         'Densidad(g/cm3)':19.05
     },
     'Np':{
         'Nombre':'Neptunio',
         'Número Atómico':93,
         'Peso Atómico':237,
-        'Estado de Oxidación':3-4-5-6,
+        'Estado de Oxidación':'3-4-5-6',
         'Densidad(g/cm3)':20.45
     },
     'Pu':{
         'Nombre':'Plutonio',
         'Número Atómico':94,
         'Peso Atómico':244,
-        'Estado de Oxidación':3-4-5-6,
+        'Estado de Oxidación':'3-4-5-6',
         'Densidad(g/cm3)':19.81
     },
     'Am':{
         'Nombre':'Americio',
         'Número Atómico':95,
         'Peso Atómico':243,
-        'Estado de Oxidación':3-4-5-6,
+        'Estado de Oxidación':'3-4-5-6',
         'Densidad(g/cm3)':13.67
     },
     'Cm':{
@@ -675,7 +675,7 @@ tabla_periodica={
         'Nombre':'Berkelio',
         'Número Atómico':97,
         'Peso Atómico':247,
-        'Estado de Oxidación':3-4,
+        'Estado de Oxidación':'3-4',
         'Densidad(g/cm3)':14.78
     },
     'Cf':{
@@ -703,14 +703,14 @@ tabla_periodica={
         'Nombre':'Mendelevio',
         'Número Atómico':101,
         'Peso Atómico':258,
-        'Estado de Oxidación':2-3,
+        'Estado de Oxidación':'2-3',
         'Densidad(g/cm3)':'-'
     },
     'No':{
         'Nombre':'Nodelio',
         'Número Atómico':102,
         'Peso Atómico':259,
-        'Estado de Oxidación':2-3,
+        'Estado de Oxidación':'2-3',
         'Densidad(g/cm3)':'-'
     },
     'Lr':{
