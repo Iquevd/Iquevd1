@@ -1,122 +1,122 @@
 tabla_periodica={ 
-        'H' :{
-        'Nombre' : 'Hidrogeno',
-        'Número Atómico' : 1 ,
-        'Peso Atómico' :  1.00797 ,
-        'Estado de Oxidación' : +1 ,
-        'Densidad(g/cm3)' : 0.071
+    'H':{
+        'Nombre':'Hidrogeno',
+        'Número Atómico':1 ,
+        'Peso Atómico':1.00797,
+        'Estado de Oxidación':'+1' ,
+        'Densidad(g/cm3)':0.071
     },
-        'He' :{
-        'Nombre' : 'Helio',
-        'Número Atómico' : 2 ,
-        'Peso Atómico' : 4.0026 ,
-        'Estado de Oxidación' :'-',
-        'Densidad(g/cm3)' : 0.126
+    'He':{
+        'Nombre':'Helio',
+        'Número Atómico':2,
+        'Peso Atómico':4.0026,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':0.126
     },
-            'Li' :{
-        'Nombre' : 'Litio',
-        'Número Atómico' : 3 ,
-        'Peso Atómico' : 6.941 ,
-        'Estado de Oxidación' : +1,
-        'Densidad(g/cm3)' : 0.53
+    'Li':{
+        'Nombre':'Litio',
+        'Número Atómico':3,
+        'Peso Atómico':6.941,
+        'Estado de Oxidación':'+1',
+        'Densidad(g/cm3)':0.53
     },
-            'Be' :{
-        'Nombre' : 'Berilio',
-        'Número Atómico' : 4 ,
-        'Peso Atómico' : 9.0122 ,
-        'Estado de Oxidación' : +2,
-        'Densidad(g/cm3)' : 1.85
+    'Be':{
+        'Nombre':'Berilio',
+        'Número Atómico':4,
+        'Peso Atómico':9.0122,
+        'Estado de Oxidación':'+2',
+        'Densidad(g/cm3)':1.85
     },
-            'B' :{
-        'Nombre' : 'Boro',
-        'Número Atómico' : 5 ,
-        'Peso Atómico' : 10.811 ,
-        'Estado de Oxidación' : +3,
-        'Densidad(g/cm3)' : 2.34
+    'B':{
+        'Nombre':'Boro',
+        'Número Atómico':5,
+        'Peso Atómico':10.811 ,
+        'Estado de Oxidación':'+3',
+        'Densidad(g/cm3)':2.34
     },
-            'C' :{
-        'Nombre' : 'Carbono',
-        'Número Atómico' : 6 ,
-        'Peso Atómico' : 12.01115 ,
-        'Estado de Oxidación' : +4,
-        'Densidad(g/cm3)' : 2.26
+    'C':{
+        'Nombre':'Carbono',
+        'Número Atómico':6,
+        'Peso Atómico':12.01115,
+        'Estado de Oxidación':'+4',
+        'Densidad(g/cm3)':2.26
     },
-        'N' :{
-        'Nombre' : 'Nitrogeno',
-        'Número Atómico' : 7 ,
-        'Peso Atómico' : 14.0067 ,
-        'Estado de Oxidación' : -3,
-        'Densidad(g/cm3)' : 0.81
+    'N':{
+        'Nombre':'Nitrogeno',
+        'Número Atómico':7,
+        'Peso Atómico':14.0067,
+        'Estado de Oxidación':'-3',
+        'Densidad(g/cm3)':0.81
     },
-        'O' :{
-        'Nombre' : 'Oxigeno',
-        'Número Atómico' : 8 ,
-        'Peso Atómico' : 15.9994 ,
-        'Estado de Oxidación' : -2,
-        'Densidad(g/cm3)' : 1.429
+    'O':{
+        'Nombre':'Oxigeno',
+        'Número Atómico':8,
+        'Peso Atómico':15.9994,
+        'Estado de Oxidación':'-2',
+        'Densidad(g/cm3)':1.429
     },
-        'F' :{
-        'Nombre' : 'Fluor',
-        'Número Atómico' : 9 ,
-        'Peso Atómico' : 18.9984,
-        'Estado de Oxidación' : -1,
-        'Densidad(g/cm3)' : 1.11
+    'F':{
+        'Nombre':'Fluor',
+        'Número Atómico':9,
+        'Peso Atómico':18.9984,
+        'Estado de Oxidación':'-1',
+        'Densidad(g/cm3)':1.11
     },
-        'Ne' :{
-        'Nombre' : 'Neon',
-        'Número Atómico' : 10 ,
-        'Peso Atómico' : 20.179,
-        'Estado de Oxidación' : '-',
-        'Densidad(g/cm3)' : 1.20
+    'Ne':{
+        'Nombre':'Neon',
+        'Número Atómico':10,
+        'Peso Atómico':20.179,
+        'Estado de Oxidación':'-',
+        'Densidad(g/cm3)':1.20
     },
-        'Na' :{
-        'Nombre' : 'Sodio',
-        'Número Atómico' : 11 ,
-        'Peso Atómico' : 22.9898,
-        'Estado de Oxidación' : +1,
-        'Densidad(g/cm3)' : 0.97
+    'Na':{
+        'Nombre':'Sodio',
+        'Número Atómico':11,
+        'Peso Atómico':22.9898,
+        'Estado de Oxidación':'+1',
+        'Densidad(g/cm3)':0.97
     },
-        'Mg' :{
-        'Nombre' : 'Magnesio',
-        'Número Atómico' : 12 ,
-        'Peso Atómico' : 24.305,
-        'Estado de Oxidación' : +2,
-        'Densidad(g/cm3)' : 1.74
+    'Mg':{
+        'Nombre':'Magnesio',
+        'Número Atómico':12,
+        'Peso Atómico':24.305,
+        'Estado de Oxidación':'+2',
+        'Densidad(g/cm3)':1.74
     },
-        'AL' :{
-        'Nombre' : 'Aluminio',
-        'Número Atómico' : 13 ,
-        'Peso Atómico' : 26.9815,
-        'Estado de Oxidación' : +3,
-        'Densidad(g/cm3)' : 2.70,
+    'Al':{
+        'Nombre':'Aluminio',
+        'Número Atómico':13,
+        'Peso Atómico':26.9815,
+        'Estado de Oxidación':'+3',
+        'Densidad(g/cm3)':2.70,
     },
-        'Si' :{
-        'Nombre' : 'Silicio',
-        'Número Atómico' : 14 ,
-        'Peso Atómico' : 28.086,
-        'Estado de Oxidación' : +4,
-        'Densidad(g/cm3)' : 2.33,
+    'Si':{
+        'Nombre':'Silicio',
+        'Número Atómico': 14 ,
+        'Peso Atómico':28.086,
+        'Estado de Oxidación':'+4',
+        'Densidad(g/cm3)':2.33,
     },
-        'P' :{
-        'Nombre' : 'Fosforo',
-        'Número Atómico' : 15 ,
-        'Peso Atómico' : 30.9738,
-        'Estado de Oxidación' : +5,
-        'Densidad(g/cm3)' : 1.82,
+    'P':{
+        'Nombre':'Fosforo',
+        'Número Atómico':15,
+        'Peso Atómico':30.9738,
+        'Estado de Oxidación':'+5',
+        'Densidad(g/cm3)':1.82,
     },
-        'S' :{
-        'Nombre' : 'Azufre',
-        'Número Atómico' : 16 ,
-        'Peso Atómico' : 32.064,
-        'Estado de Oxidación' : -2,
-        'Densidad(g/cm3)' : 2.07,
+    'S':{
+        'Nombre':'Azufre',
+        'Número Atómico':16,
+        'Peso Atómico':32.064,
+        'Estado de Oxidación':'-2',
+        'Densidad(g/cm3)':2.07,
     },
-            'Cl' :{
-        'Nombre' : 'Cloro',
-        'Número Atómico' : 17 ,
-        'Peso Atómico' : 35.453,
-        'Estado de Oxidación' : -1,
-        'Densidad(g/cm3)' : 1.56,
+    'Cl':{
+        'Nombre':'Cloro',
+        'Número Atómico':17 ,
+        'Peso Atómico':35.453,
+        'Estado de Oxidación':'-1',
+        'Densidad(g/cm3)':1.56,
     },
             'Ar' :{
         'Nombre' : 'Argon',
@@ -258,19 +258,19 @@ tabla_periodica={
         'Estado de Oxidación' : +1,
         'Densidad(g/cm3)' : 1.53,
     },
-        'Sr' :{
+    'Sr':{
         'Nombre' : 'Estroncio',
         'Número Atómico' : 38 ,
         'Peso Atómico' : 87.62,
         'Estado de Oxidación' : +2,
         'Densidad(g/cm3)' : 2.6,
     },
-        'Y' :{
-        'Nombre' : 'Itrio',
-        'Número Atómico' : 39 ,
-        'Peso Atómico' : 88.906,
-        'Estado de Oxidación' : +3,
-        'Densidad(g/cm3)' : 4.47,
+    'Y':{
+        'Nombre':'Itrio',
+        'Número Atómico':39 ,
+        'Peso Atómico':88.906,
+        'Estado de Oxidación':3,
+        'Densidad(g/cm3)':4.47
     },
     'Zr':{
         'Nombre':'Circonio',
