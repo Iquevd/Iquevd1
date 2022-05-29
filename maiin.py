@@ -632,7 +632,7 @@ tabla_periodica={
         'Densidad(g/cm3)':19.3
     },
     'Hg':{
-        'Grupo':'',
+        'Grupo':'Metal',
         'Nombre':'Mercurio',
         'Número Atómico': 80,
         'Peso Atómico':200.59,
@@ -640,7 +640,7 @@ tabla_periodica={
         'Densidad(g/cm3)':13.534
     },
     'Tl':{
-        'Grupo':'',
+        'Grupo':'Metal',
         'Nombre':'Talio',
         'Número Atómico':81,
         'Peso Atómico':204.3833,
@@ -648,7 +648,7 @@ tabla_periodica={
         'Densidad(g/cm3)':11.85
     },
     'Pb':{
-        'Grupo':'',
+        'Grupo':'Metal',
         'Nombre':'Plomo',
         'Número Atómico':82,
         'Peso Atómico':207.2,
@@ -656,7 +656,7 @@ tabla_periodica={
         'Densidad(g/cm3)':11.34
     },
     'Bi':{
-        'Grupo':'',
+        'Grupo':'Metal',
         'Nombre':'Bismuto',
         'Número Atómico':83,
         'Peso Atómico':208.9803,
@@ -664,7 +664,7 @@ tabla_periodica={
         'Densidad(g/cm3)':9.78
     },
     'Po':{
-        'Grupo':'',
+        'Grupo':'Metal',
         'Nombre':'Polonio',
         'Número Atómico':84,
         'Peso Atómico':208.9824,
@@ -672,7 +672,7 @@ tabla_periodica={
         'Densidad(g/cm3)':9.19
     },
     'At':{
-        'Grupo':'',
+        'Grupo':'Semimetal',
         'Nombre':'Astato',
         'Número Atómico':85,
         'Peso Atómico':209.9871,
@@ -680,7 +680,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Rn':{
-        'Grupo':'',
+        'Grupo':'Gas noble',
         'Nombre':'Radón',
         'Número Atómico':86,
         'Peso Atómico':222.0175,
@@ -688,7 +688,7 @@ tabla_periodica={
         'Densidad(g/cm3)':9.73
     },
     'Fr':{
-        'Grupo':'',
+        'Grupo':'Alcalino',
         'Nombre':'Francio',
         'Número Atómico':87,
         'Peso Atómico':223.0197,
@@ -696,7 +696,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Ra':{
-        'Grupo':'',
+        'Grupo':'Alcalinoterreo',
         'Nombre':'Radio',
         'Número Atómico':88,
         'Peso Atómico':226.0254,
@@ -704,7 +704,7 @@ tabla_periodica={
         'Densidad(g/cm3)':5.8
     },
     'Ac':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Actinio',
         'Número Atómico':89,
         'Peso Atómico':227.0278,
@@ -712,7 +712,7 @@ tabla_periodica={
         'Densidad(g/cm3)':10.07
     },
     'Th':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Torio',
         'Número Atómico':90,
         'Peso Atómico':232.0381,
@@ -720,7 +720,7 @@ tabla_periodica={
         'Densidad(g/cm3)':11.72
     },
     'Pa':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Protactinio',
         'Número Atómico':91,
         'Peso Atómico':231.0358,
@@ -728,7 +728,7 @@ tabla_periodica={
         'Densidad(g/cm3)':15.37
     },
     'U':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Uranio',
         'Número Atómico':92,
         'Peso Atómico':238.0289,
@@ -736,7 +736,7 @@ tabla_periodica={
         'Densidad(g/cm3)':19.05
     },
     'Np':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Neptunio',
         'Número Atómico':93,
         'Peso Atómico':237,
@@ -744,7 +744,7 @@ tabla_periodica={
         'Densidad(g/cm3)':20.45
     },
     'Pu':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Plutonio',
         'Número Atómico':94,
         'Peso Atómico':244,
@@ -752,7 +752,7 @@ tabla_periodica={
         'Densidad(g/cm3)':19.81
     },
     'Am':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Americio',
         'Número Atómico':95,
         'Peso Atómico':243,
@@ -760,7 +760,7 @@ tabla_periodica={
         'Densidad(g/cm3)':13.67
     },
     'Cm':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Curio',
         'Número Atómico':96,
         'Peso Atómico':247,
@@ -768,7 +768,7 @@ tabla_periodica={
         'Densidad(g/cm3)':13.51
     },
     'Bk':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Berkelio',
         'Número Atómico':97,
         'Peso Atómico':247,
@@ -776,7 +776,7 @@ tabla_periodica={
         'Densidad(g/cm3)':14.78
     },
     'Cf':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Californio',
         'Número Atómico':98,
         'Peso Atómico':251,
@@ -784,7 +784,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Es':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Eistenio',
         'Número Atómico':99,
         'Peso Atómico':252,
@@ -792,7 +792,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Fm':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Fermio',
         'Número Atómico':100,
         'Peso Atómico':257,
@@ -800,7 +800,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Md':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Mendelevio',
         'Número Atómico':101,
         'Peso Atómico':258,
@@ -808,7 +808,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'No':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Nodelio',
         'Número Atómico':102,
         'Peso Atómico':259,
@@ -816,7 +816,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Lr':{
-        'Grupo':'',
+        'Grupo':'Actinido',
         'Nombre':'Laurencio',
         'Número Atómico':103,
         'Peso Atómico':262,
@@ -824,7 +824,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Rf':{
-        'Grupo':'',
+        'Grupo':'Metal',
         'Nombre':'Rutherfodio',
         'Número Atómico':104,
         'Peso Atómico':261.11,
@@ -832,7 +832,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Db':{
-        'Grupo':'',
+        'Grupo':'Metal',
         'Nombre':'Dubnio',
         'Número Atómico':105,
         'Peso Atómico':262.114,
@@ -840,7 +840,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Sg':{
-        'Grupo':'',
+        'Grupo':'Metal',
         'Nombre':'Seaborgio',
         'Número Atómico':106,
         'Peso Atómico':263.12,
@@ -848,7 +848,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Bh':{
-        'Grupo':'',
+        'Grupo':'Metal',
         'Nombre':'Bohrio',
         'Número Atómico':107,
         'Peso Atómico':262.12,
@@ -856,7 +856,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Hs':{
-        'Grupo':'',
+        'Grupo':'Metal',
         'Nombre':'Hassio',
         'Número Atómico':108,
         'Peso Atómico':264,
@@ -864,7 +864,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Mt':{
-        'Grupo':'',
+        'Grupo':'Desconocido',
         'Nombre':'Meitnerio',
         'Número Atómico':109,
         'Peso Atómico':266.1378,
@@ -872,7 +872,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Ds':{
-        'Grupo':'',
+        'Grupo':'Desconocido',
         'Nombre':'Darmstadtio',
         'Número Atómico':110,
         'Peso Atómico':269,
@@ -880,7 +880,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Rg':{
-        'Grupo':'',
+        'Grupo':'Desconocido',
         'Nombre':'Roentgenio',
         'Número Atómico':111,
         'Peso Atómico':272,
@@ -888,7 +888,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Cn':{
-        'Grupo':'',
+        'Grupo':'Desconocido',
         'Nombre':'Copernicio',
         'Número Atómico':112,
         'Peso Atómico':277,
@@ -896,7 +896,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Uut':{
-        'Grupo':'',
+        'Grupo':'Desconocido',
         'Nombre':'Ununtrio',
         'Número Atómico':113,
         'Peso Atómico':284,
@@ -904,7 +904,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Uuq':{
-        'Grupo':'',
+        'Grupo':'Desconocido',
         'Nombre':'Ununcuadio',
         'Número Atómico':114,
         'Peso Atómico':289,
@@ -912,7 +912,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Uup':{
-        'Grupo':'',
+        'Grupo':'Desconocido',
         'Nombre':'Ununpentio',
         'Número Atómico':115,
         'Peso Atómico':288,
@@ -920,7 +920,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Uuh':{
-        'Grupo':'',
+        'Grupo':'Desconocido',
         'Nombre':'Ununhexio',
         'Número Atómico':116,
         'Peso Atómico':289,
@@ -928,7 +928,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Uus':{
-        'Grupo':'',
+        'Grupo':'Desconocido',
         'Nombre':'Ununseptio',
         'Número Atómico':117,
         'Peso Atómico':'-',
@@ -936,7 +936,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Uuo':{
-        'Grupo':'',
+        'Grupo':'Desconocido',
         'Nombre':'Ununoctio',
         'Número Atómico':118,
         'Peso Atómico':284,
@@ -944,7 +944,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Uuu':{
-        'Grupo':'',
+        'Grupo':'Desconocido',
         'Nombre':'Ununenio',
         'Número Atómico':119,
         'Peso Atómico':'-',
@@ -952,7 +952,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Ubn':{
-        'Grupo':'',
+        'Grupo':'Desconocido',
         'Nombre':'Unbinilio',
         'Número Atómico':120,
         'Peso Atómico':'-',
@@ -960,7 +960,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
     'Ubu':{
-        'Grupo':'',
+        'Grupo':'Desconocido',
         'Nombre':'Unbiunio',
         'Número Atómico':121,
         'Peso Atómico':'-',
@@ -969,11 +969,15 @@ tabla_periodica={
     },
 }
 print("Bienvenido a la Tabla Periódica de los Elementos!")
-print("Ingrese por favor el símbolo del elemento químico que desee buscar: ")
+print("Ingrese el grupo de la Tabla Periopdica que desea investigar: ")
+print("1.No metal\n2.Gas noble\n3.Semimetal\n4.Metal\n5.Lantanido\n6.Actinido\n7.Alcalinoterreo\n8.Alcalino\n9.Desconocido")
+
+"""
 for i in tabla_periodica:
     simbolo=input()
     if simbolo in tabla_periodica:
         print("La información del elemento químico",simbolo,"es",tabla_periodica[simbolo])
+"""
 
 """
 tabla_periodicax={'H':1.00794,'He':4.002602,'Li':6.941,'Be':9.012182,'B':10.811,'C':12.011,'N':14.0067,'O':15.9994,'F':18.9984032,'Ne':20.1797,'Na':22.989768,'Mg':24.3050,'Al':26.981539,'Si':28.0855,'P':30.973762,'S':32.066,'Cl':35.4527,'Ar':39.948,'K':39.0983,'Ca':40.078,'Sc':44.955910,'Ti':47.88,'V':50.9415,'Cr':51.9961,'Mn':54.93805,'Fe':55.847,'Co':58.93320,'Ni':58.6934,'Cu':63.546,'Zn':65.39,'Ga':69.723,'Ge':72.61,'As':74.92159,'Se':78.96,'Br':79.904,'Kr':83.80,'Rb':85.4678,'Sr':87.62,'Y':88.90585,'Zr':91.224,'Nb':92.90638,'Mo':95.94,'Tc':97.9072,'Ru':101.07,'Rh':102.90550,'Pd':106.42,'Ag':107.8682,'Cd':112.441,'In':114.818,'Sn':118.710,'Sb':121.757,'Te':127.60,'I':126.90447,'Xe':131.29,'Cs':132.90543,'Ba':137.327,'La':138.9055,'Hf':178.49,'Ta':180.9479,'W':183.84,'Re':186.207,'Os':190.23,'Ir':192.22,'Pt':195.08,'Au':196.96654,'Hg':200.59,'Tl':204.3833,'Pb':207.2,'Bi':208.98037,'Po':208.9824,'At':209.9871,'Rn':222.0175,'Fr':223.0197,'Ra':226.0254,'Ac':227.0278,'Rf':261.11,'Db':262.114,'Sg':263.12,'Bh':262.12,'Hs':264,'Mt':266.1378,'Ds':269,'Rg':272,'Cn':277,'Uut':284,'Uuq':289,'Uup':288,'Uuh':289,'Uuo':284,'Ra':140.115,'Pr':140.90765,'Nd':144.24,'Pm':114.9127,'Sm':150.36,'Eu':151.965,'Gd':157.25,'Tb':158.92534,'Dy':162.50,'Ho':164.93032,'Tm':168.93421,'Lu':174.967,'Th':232.0381,'Pa':231.03588,'U':238.0289,'Np':237,'Pu':244,'Am':243,'Cm':247,'Bk':247,'Cf':251,'Es':252,'Fm':257,'Md':258,'No':259,'Lr':262}
