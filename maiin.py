@@ -968,7 +968,7 @@ tabla_periodica={
         'Densidad(g/cm3)':'-'
     },
 }
-
+print("Bienvenido a la Tabla Periódica de los Elementos!")
 print("Ingrese por favor el símbolo del elemento químico que desee buscar: ")
 for i in tabla_periodica:
     simbolo=input()
