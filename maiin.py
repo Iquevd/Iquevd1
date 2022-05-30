@@ -981,43 +981,43 @@ for i in tabla_periodica:
 print("Los elementos de la tabla periódica pertenecientes a",gr_eleccion,"son: ",list_elem)
 print("Ingrese por favor el símbolo del elemento químico que desee buscar: ")
 for i in tabla_periodica:
-  simbolo=input()
-  if simbolo in tabla_periodica:
-    print("La información del elemento químico",simbolo,"es",tabla_periodica[simbolo])
-tabla_periodicax={'H':1.00794,'He':4.002602,'Li':6.941,'Be':9.012182,'B':10.811,'C':12.011,'N':14.0067,'O':15.9994,'F':18.9984032,'Ne':20.1797,'Na':22.989768,'Mg':24.3050,'Al':26.981539,'Si':28.0855,'P':30.973762,'S':32.066,'Cl':35.4527,'Ar':39.948,'K':39.0983,'Ca':40.078,'Sc':44.955910,'Ti':47.88,'V':50.9415,'Cr':51.9961,'Mn':54.93805,'Fe':55.847,'Co':58.93320,'Ni':58.6934,'Cu':63.546,'Zn':65.39,'Ga':69.723,'Ge':72.61,'As':74.92159,'Se':78.96,'Br':79.904,'Kr':83.80,'Rb':85.4678,'Sr':87.62,'Y':88.90585,'Zr':91.224,'Nb':92.90638,'Mo':95.94,'Tc':97.9072,'Ru':101.07,'Rh':102.90550,'Pd':106.42,'Ag':107.8682,'Cd':112.441,'In':114.818,'Sn':118.710,'Sb':121.757,'Te':127.60,'I':126.90447,'Xe':131.29,'Cs':132.90543,'Ba':137.327,'La':138.9055,'Hf':178.49,'Ta':180.9479,'W':183.84,'Re':186.207,'Os':190.23,'Ir':192.22,'Pt':195.08,'Au':196.96654,'Hg':200.59,'Tl':204.3833,'Pb':207.2,'Bi':208.98037,'Po':208.9824,'At':209.9871,'Rn':222.0175,'Fr':223.0197,'Ra':226.0254,'Ac':227.0278,'Rf':261.11,'Db':262.114,'Sg':263.12,'Bh':262.12,'Hs':264,'Mt':266.1378,'Ds':269,'Rg':272,'Cn':277,'Uut':284,'Uuq':289,'Uup':288,'Uuh':289,'Uuo':284,'Ra':140.115,'Pr':140.90765,'Nd':144.24,'Pm':114.9127,'Sm':150.36,'Eu':151.965,'Gd':157.25,'Tb':158.92534,'Dy':162.50,'Ho':164.93032,'Tm':168.93421,'Lu':174.967,'Th':232.0381,'Pa':231.03588,'U':238.0289,'Np':237,'Pu':244,'Am':243,'Cm':247,'Bk':247,'Cf':251,'Es':252,'Fm':257,'Md':258,'No':259,'Lr':262}
-historial=[]
-print("Desea abrir la opción Calculadora de Elementos y Compuestos Químicos","\n","Si/No")
-while True:
-  iniciar=input()
-  if iniciar=="Si":
-    print("1.¿Desea saber el Peso Atómico de un Elemento?\n2.¿Desea saber el Peso Atómico de un Compuesto?")
-    eleccion=int(input("Elige una opción 1/2: "))
-    if eleccion==1:
-        elemento=input("Ingrese el elemento químico: ")
-        print("El Peso Atómico de",elemento,"es",tabla_periodicax[elemento],"\n")
-        historial.append(tabla_periodicax[elemento])
-        print("¿Desea calcular otro elemento?\nSi/No\nVer historial")
-    elif eleccion==2:
-        contador=0
-        sumatoria=0
-        compuestos=int(input("Ingrese la cantidad de elementos que va a tener su compuesto: "))
-        while (contador<compuestos):
-            print("Ingrese el",contador+1,"elemento químico: ")
-            elemento=input()
-            multiplicacion=float(input("Digite la cantidad por la cual lo va a multiplicar: "))
-            key=tabla_periodicax.get(elemento)
-            resultado=multiplicacion*key
-            print("El resultado de la multiplicación",multiplicacion,"es",resultado)
-            sumatoria=sumatoria+resultado
-            contador+=1
-        historial.append(sumatoria)
-        print(f"El Peso Atómico del compuesto es:{sumatoria}""\n")
-        print("¿Desea calcular otro compuesto?\nSi/No\nVer historial")
-  elif iniciar=="Ver historial":
-      print(historial)
-      print("¿Desea calcular otro compuesto?\nSi/No")
-  elif iniciar=="No":
-    print("Gracias por usar el programa, hasta pronto!")
-    break
-  else:
-      print("Ingrese una opción valida para inicar el programa nuevamente\nSi/No\nVer historial")
+    simbolo=input()
+    if simbolo in tabla_periodica:
+        print("La información del elemento químico",simbolo,"es",tabla_periodica[simbolo])
+        tabla_periodicax={'H':1.00794,'He':4.002602,'Li':6.941,'Be':9.012182,'B':10.811,'C':12.011,'N':14.0067,'O':15.9994,'F':18.9984032,'Ne':20.1797,'Na':22.989768,'Mg':24.3050,'Al':26.981539,'Si':28.0855,'P':30.973762,'S':32.066,'Cl':35.4527,'Ar':39.948,'K':39.0983,'Ca':40.078,'Sc':44.955910,'Ti':47.88,'V':50.9415,'Cr':51.9961,'Mn':54.93805,'Fe':55.847,'Co':58.93320,'Ni':58.6934,'Cu':63.546,'Zn':65.39,'Ga':69.723,'Ge':72.61,'As':74.92159,'Se':78.96,'Br':79.904,'Kr':83.80,'Rb':85.4678,'Sr':87.62,'Y':88.90585,'Zr':91.224,'Nb':92.90638,'Mo':95.94,'Tc':97.9072,'Ru':101.07,'Rh':102.90550,'Pd':106.42,'Ag':107.8682,'Cd':112.441,'In':114.818,'Sn':118.710,'Sb':121.757,'Te':127.60,'I':126.90447,'Xe':131.29,'Cs':132.90543,'Ba':137.327,'La':138.9055,'Hf':178.49,'Ta':180.9479,'W':183.84,'Re':186.207,'Os':190.23,'Ir':192.22,'Pt':195.08,'Au':196.96654,'Hg':200.59,'Tl':204.3833,'Pb':207.2,'Bi':208.98037,'Po':208.9824,'At':209.9871,'Rn':222.0175,'Fr':223.0197,'Ra':226.0254,'Ac':227.0278,'Rf':261.11,'Db':262.114,'Sg':263.12,'Bh':262.12,'Hs':264,'Mt':266.1378,'Ds':269,'Rg':272,'Cn':277,'Uut':284,'Uuq':289,'Uup':288,'Uuh':289,'Uuo':284,'Ra':140.115,'Pr':140.90765,'Nd':144.24,'Pm':114.9127,'Sm':150.36,'Eu':151.965,'Gd':157.25,'Tb':158.92534,'Dy':162.50,'Ho':164.93032,'Tm':168.93421,'Lu':174.967,'Th':232.0381,'Pa':231.03588,'U':238.0289,'Np':237,'Pu':244,'Am':243,'Cm':247,'Bk':247,'Cf':251,'Es':252,'Fm':257,'Md':258,'No':259,'Lr':262}
+        historial=[]
+        print("Desea abrir la opción Calculadora de Elementos y Compuestos Químicos","\n","Si/No")
+        while True:
+            iniciar=input()
+            if iniciar=="Si":
+                print("1.¿Desea saber el Peso Atómico de un Elemento?\n2.¿Desea saber el Peso Atómico de un Compuesto?")
+                eleccion=int(input("Elige una opción 1/2: "))
+                if eleccion==1:
+                    elemento=input("Ingrese el elemento químico: ")
+                    print("El Peso Atómico de",elemento,"es",tabla_periodicax[elemento],"\n")
+                    historial.append(tabla_periodicax[elemento])
+                    print("¿Desea calcular otro elemento?\nSi/No\nVer historial")
+                elif eleccion==2:
+                    contador=0
+                    sumatoria=0
+                    compuestos=int(input("Ingrese la cantidad de elementos que va a tener su compuesto: "))
+                    while (contador<compuestos):
+                        print("Ingrese el",contador+1,"elemento químico: ")
+                        elemento=input()
+                        multiplicacion=float(input("Digite la cantidad por la cual lo va a multiplicar: "))
+                        key=tabla_periodicax.get(elemento)
+                        resultado=multiplicacion*key
+                        print("El resultado de la multiplicación",multiplicacion,"es",resultado)
+                        sumatoria=sumatoria+resultado
+                        contador+=1
+                        historial.append(sumatoria)
+                        print(f"El Peso Atómico del compuesto es:{sumatoria}""\n")
+                        print("¿Desea calcular otro compuesto?\nSi/No\nVer historial")
+                elif iniciar=="Ver historial":
+                    print(historial)
+                    print("¿Desea calcular otro compuesto?\nSi/No")
+                elif iniciar=="No":
+                    print("Gracias por usar el programa, hasta pronto!")
+                break
+            else:
+                print("Ingrese una opción valida para inicar el programa nuevamente\nSi/No\nVer historial")
