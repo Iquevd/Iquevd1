@@ -1000,4 +1000,4 @@ elif eleccion=='2':
     print("El resultado de la multiplicación",multiplicacion,"es",resultado)
     sumatoria=sumatoria+resultado
     contador+=1
-print("El compuesto formado es",elemento, "y el peso atómico del compuesto es:",sumatoria)
+print("El compuesto formado es",elemento+elemento, "y el peso atómico del compuesto es:",sumatoria)
