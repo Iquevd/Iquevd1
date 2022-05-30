@@ -8,7 +8,7 @@ tabla_periodica={
         'Densidad(g/cm3)':0.071
     },
     'He':{
-        'Grupo':'Gas Noble',
+        'Grupo':'Gas noble',
         'Nombre':'Helio',
         'Número Atómico':2,
         'Peso Atómico':4.0026,
@@ -24,7 +24,7 @@ tabla_periodica={
         'Densidad(g/cm3)':0.53
     },
     'Be':{
-        'Grupo':'alcalinoterreo',
+        'Grupo':'Alcalinoterreo',
         'Nombre':'Berilio',
         'Número Atómico':4,
         'Peso Atómico':9.0122,
@@ -88,7 +88,7 @@ tabla_periodica={
         'Densidad(g/cm3)':0.97
     },
     'Mg':{
-        'Grupo':'alcalinoterreo',
+        'Grupo':'Alcalinoterreo',
         'Nombre':'Magnesio',
         'Número Atómico':12,
         'Peso Atómico':24.305,
@@ -152,7 +152,7 @@ tabla_periodica={
         'Densidad(g/cm3)':0.97,
     },
     'Ca':{
-        'Grupo':'alcalinoterreo',
+        'Grupo':'Alcalinoterreo',
         'Nombre':'Calcio',
         'Número Atómico':20 ,
         'Peso Atómico':40.08,
@@ -296,7 +296,7 @@ tabla_periodica={
         'Densidad(g/cm3)':1.53,
     },
     'Sr':{
-        'Grupo':'alcalinoterreo',
+        'Grupo':'Alcalinoterreo',
         'Nombre':'Estroncio',
         'Número Atómico':38,
         'Peso Atómico':87.62,
@@ -448,7 +448,7 @@ tabla_periodica={
         'Densidad(g/cm3)':3.510
     },
     'La':{
-        'Grupo':'Lantanidos',
+        'Grupo':'Lantanido',
         'Nombre':'Lantano',
         'Número Atómico':57,
         'Peso Atómico':138.91,
@@ -456,7 +456,7 @@ tabla_periodica={
         'Densidad(g/cm3)':6.146
     },
     'Ce':{
-        'Grupo':'Lantanidos',
+        'Grupo':'Lantanido',
         'Nombre':'Cerio',
         'Número Atómico':58,
         'Peso Atómico':140.12,
@@ -464,7 +464,7 @@ tabla_periodica={
         'Densidad(g/cm3)':6.689
     },
     'Pr':{
-        'Grupo':'Lantanidos',
+        'Grupo':'Lantanido',
         'Nombre':'Praseodimio',
         'Número Atómico':59,
         'Peso Atómico':140.91,
@@ -472,7 +472,7 @@ tabla_periodica={
         'Densidad(g/cm3)':6.640
     },
     'Nd':{
-        'Grupo':'Lantanidos',
+        'Grupo':'Lantanido',
         'Nombre':'Neodimio',
         'Número Atómico':60,
         'Peso Atómico':144.24,
@@ -480,7 +480,7 @@ tabla_periodica={
         'Densidad(g/cm3)':7.010
     },
     'Pm':{
-        'Grupo':'Lantanidos',
+        'Grupo':'Lantanido',
         'Nombre':'Prometio',
         'Número Atómico':61,
         'Peso Atómico':145,
@@ -488,7 +488,7 @@ tabla_periodica={
         'Densidad(g/cm3)':7.264
     },
     'Sm':{
-        'Grupo':'Lantanidos',
+        'Grupo':'Lantanido',
         'Nombre':'Samario',
         'Número Atómico':62,
         'Peso Atómico':150.36,
@@ -496,7 +496,7 @@ tabla_periodica={
         'Densidad(g/cm3)':7.353
     },
     'Eu':{
-        'Grupo':'Lantanidos',
+        'Grupo':'Lantanido',
         'Nombre':'Europio',
         'Número Atómico':63,
         'Peso Atómico':151.96,
@@ -512,7 +512,7 @@ tabla_periodica={
         'Densidad(g/cm3)':7.901
     },
     'Tb':{
-        'Grupo':'Lantanidos',
+        'Grupo':'Lantanido',
         'Nombre':'Terbio',
         'Número Atómico':65,
         'Peso Atómico':158.93,
@@ -520,7 +520,7 @@ tabla_periodica={
         'Densidad(g/cm3)':8.219
     },
     'Dy':{
-        'Grupo':'Lantanidos',
+        'Grupo':'Lantanido',
         'Nombre':'Disprosio',
         'Número Atómico':66,
         'Peso Atómico':162.50,
@@ -536,7 +536,7 @@ tabla_periodica={
         'Densidad(g/cm3)':9.795
     },
     'Er':{
-        'Grupo':'Lantanidos',
+        'Grupo':'Lantanido',
         'Nombre':'Erbio',
         'Número Atómico':68,
         'Peso Atómico':167.26,
@@ -552,7 +552,7 @@ tabla_periodica={
         'Densidad(g/cm3)':9.320
     },
     'Yb':{
-        'Grupo':'Lantanidos',
+        'Grupo':'Lantanido',
         'Nombre':'Iterbio',
         'Número Atómico':70,
         'Peso Atómico':173.05,
@@ -560,7 +560,7 @@ tabla_periodica={
         'Densidad(g/cm3)':6.570
     },
     'Lu':{
-        'Grupo':'Lantanidos',
+        'Grupo':'Lantanido',
         'Nombre':'Lutecio',
         'Número Atómico':71,
         'Peso Atómico':174.97,
